@@ -1,5 +1,5 @@
 # natural_language_processing
-Repository containing my work in Natural Language Processing, involving work in my NLP masters' course and after graduation projects.
+My work in Natural Language Processing, involving work in my NLP masters' course and after graduation projects.
 
 # Token.java, Scanner.java, Online.java, Offline.java
 A set of java classes that parsed text files, breaks them into tokens and then uses data structures (trees and lists) to build document term and term frequency matrices.
