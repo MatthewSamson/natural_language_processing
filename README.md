@@ -15,3 +15,6 @@ Using the cleaned data to generate features based on document term and term freq
 
 # sentiment_feature_neuralNet.ipynb
 Using the cleaned data to generate features based on document term and term frequency matrices followed by building deep learning models to perform sentiment analysis on both the balanced and unbalanced data.
+
+# tweets_Word2Vec.ipynb
+Uploading data from twitter based on flight reviews to perform sentiment analysis on how good or bad the flight trip is. The data from twitter is loaded and cleaned up followed by building a custom word2vec model that gives each unique word a distributed represented vector trained from their respective context via the continuous bag of words model.
